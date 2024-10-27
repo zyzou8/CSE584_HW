@@ -1,8 +1,8 @@
-# CSE584_HW
+# CSE584 Homework Submission
 
-This repository contains reviews of three papers related to Active Learning (AL) in machine learning and computer vision.
+This repository contains homework for CSE584
 
-## Paper Reviews
+## Homework 1. Paper Reviews
 
 ### 1. Active Learning by Feature Mixing
 
@@ -23,7 +23,8 @@ This repository contains reviews of three papers related to Active Learning (AL)
 **Link:** [https://arxiv.org/pdf/2207.12112](https://arxiv.org/pdf/2207.12112)
 
 
-## Usage
+## Homework 2. RL Project 
+This RL code, part of my master's course project and implemented by me and other team members, presents a reinforcement learning agent based on a Deep Q-Network (DQN) to play the 'CarRacing' game environment from OpenAI's Gymnasium library. (Here is our presentation link: (https://youtu.be/JKSpW0tA628)) The purpose of this project is to train an agent capable of autonomously driving a car in a 2D racing game by learning optimal actions through trial and error, aiming to maximize cumulative rewards.
 
 This repository is intended for educational purposes and to facilitate discussions on recent advancements in active learning. Feel free to explore the reviews and summaries to gain insights into these cutting-edge techniques.
 
