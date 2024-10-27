@@ -28,5 +28,7 @@ This RL code, part of my master's course project and implemented by me and other
 
 This repository is intended for educational purposes and to facilitate discussions on recent advancements in active learning. Feel free to explore the reviews and summaries to gain insights into these cutting-edge techniques.
 
+![Demo of the project](CarRacinggym_animation_3.gif)
+
 
 
